@@ -1,1 +1,1 @@
-# Python_Student_Resullt_Analysis
+# Python_Student_Result_Analysis
